@@ -7,3 +7,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+<div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=sergey-glushakov&style=flat-square&color=blue" alt="Sergey Glushakov"/>
+</div>
+
+
