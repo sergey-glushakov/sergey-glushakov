@@ -36,3 +36,7 @@ I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcM
 </div>
 
 
+---
+
+[![codewars](https://www.codewars.com/users/sergey-glushakov/badges/large)](https://www.codewars.com/users/sergey-glushakov)
+
